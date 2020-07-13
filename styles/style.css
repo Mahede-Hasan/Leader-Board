@@ -1,0 +1,79 @@
+body{
+    background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+.mid-area{
+    width: 875px;
+    margin: 0 auto;
+}
+.logo-area{
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+}
+.bg-color{
+    background-color: #562EFF;
+}
+.navbar img{
+    width: 55px;
+    
+}
+.nav-link{
+    margin-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+    font-size: 22px;
+}
+.idea{
+    padding-left: 5px;
+     font-size: 28px;
+     color: white;
+}
+.nav-pic{
+    margin-left: 20px;   
+}
+.top-player{
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+main{
+   max-width: 870px;
+  
+}
+.player{
+  
+}
+.player img{
+    width: 56px;
+}
+.line{
+    width: 807px;
+    height: 0px;
+    border: 1px solid #d1d1d1;
+    margin-left: 16px;
+}
+.tp-player{
+    margin-bottom: 25px;
+}
+.top-bloge img{
+    width: 177px;
+    height: 117px;
+}
+
+.bl{
+    font-size: 17px;
+    font-weight: bold;
+}
+.bl-p{
+    font-size: 13px;
+    color: #7655FF;
+}
+.by{
+    color: gray;
+}
